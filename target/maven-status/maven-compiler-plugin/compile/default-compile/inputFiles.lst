@@ -1,0 +1,13 @@
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/entity/AutorEntity.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/model/Respuesta.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/service/ConsumoAPI.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/repository/AutorRepository.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/util/CadenasUtil.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/repository/LibroRepository.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/entity/LibroEntity.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/client/ClienteLiteratura.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/mapper/ConvierteDatos.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/model/Autor.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/mapper/IConvierteDatos.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/ChallengeLiteraturaApplication.java
+/home/coldang/Downloads/Challenge-Literatura-main/src/main/java/com/challengeliteratura/challengeliteratura/model/Libro.java
